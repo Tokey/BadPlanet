@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 7/30/2017 12:33:41 PM-->
+<Tiled2Unity version="1.0.12.3">
+  <Prefab name="Level04" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="25" numTilesHigh="20" tileWidth="70" tileHeight="70" exportScale="1" mapWidthInPixels="1750" mapHeightInPixels="1400" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+  </Prefab>
+</Tiled2Unity>

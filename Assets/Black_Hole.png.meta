@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: bec1d99dbd809ec4a80232720f4734a0
+timeCreated: 1469975204
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Black_Hole_0
+    21300002: Black_Hole_1
+    21300004: Black_Hole_2
+    21300006: Black_Hole_3
+    21300008: Black_Hole_4
+    21300010: Black_Hole_5
+    21300012: Black_Hole_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Black_Hole_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 357
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Black_Hole_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 375
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119.5, y: -113.5}
+        - {x: -150.5, y: -30.5}
+        - {x: -76.5, y: -117.5}
+        - {x: -21.5, y: -155.5}
+        - {x: 40.5, y: -158.5}
+        - {x: 111.5, y: -133.5}
+        - {x: 163.5, y: -96.5}
+        - {x: 187.5, y: -37.5}
+        - {x: 187.5, y: 54.5}
+        - {x: 160.5, y: 116.5}
+        - {x: 108.5, y: 165.5}
+        - {x: 74.5, y: 185.5}
+        - {x: 45.5, y: 189.5}
+        - {x: -52.5, y: 189.5}
+        - {x: -70.5, y: 182.5}
+        - {x: -65.5, y: 176.5}
+        - {x: -55.5, y: 175.5}
+        - {x: 36.5, y: 168.5}
+        - {x: 110.5, y: 126.5}
+        - {x: 152.5, y: 18.5}
+        - {x: 75.5, y: 116.5}
+        - {x: 24.5, y: 156.5}
+        - {x: -28.5, y: 160.5}
+        - {x: -97.5, y: 141.5}
+        - {x: -139.5, y: 116.5}
+        - {x: -184.5, y: 55.5}
+        - {x: -187.5, y: 38.5}
+        - {x: -187.5, y: -43.5}
+        - {x: -185.5, y: -60.5}
+        - {x: -169.5, y: -110.5}
+        - {x: -94.5, y: -180.5}
+        - {x: -47.5, y: -188.5}
+        - {x: -36.5, y: -189.5}
+        - {x: 46.5, y: -189.5}
+        - {x: 65.5, y: -181.5}
+        - {x: 61.5, y: -176.5}
+        - {x: -45.5, y: -164.5}
+      - - {x: 179.5, y: -128.5}
+        - {x: 175.5, y: -147.5}
+        - {x: 175.5, y: -154.5}
+        - {x: 185.5, y: -158.5}
+        - {x: 187.5, y: -158.5}
+        - {x: 187.5, y: -128.5}
+      - - {x: -183.5, y: 184.5}
+        - {x: -186.5, y: 184.5}
+        - {x: -187.5, y: 183.5}
+        - {x: -187.5, y: 150.5}
+        - {x: -169.5, y: 150.5}
+        - {x: -164.5, y: 166.5}
+        - {x: -164.5, y: 173.5}
+        - {x: -166.5, y: 175.5}
+    - name: Black_Hole_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 295
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Black_Hole_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 227
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24.5}
+        - {x: -19, y: 21.5}
+        - {x: -20, y: 17.5}
+        - {x: -20, y: -3.5}
+        - {x: -17, y: -11.5}
+        - {x: -10, y: -18.5}
+        - {x: -3, y: -23.5}
+        - {x: 0, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: 2.5}
+        - {x: 8, y: 24.5}
+    - name: Black_Hole_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 155
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20.5}
+        - {x: -20, y: 8.5}
+        - {x: -20, y: -15.5}
+        - {x: -18, y: -20.5}
+        - {x: 11, y: -20.5}
+        - {x: 20, y: -7.5}
+        - {x: 20, y: 14.5}
+        - {x: 13, y: 20.5}
+    - name: Black_Hole_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 93
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Black_Hole_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 47
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

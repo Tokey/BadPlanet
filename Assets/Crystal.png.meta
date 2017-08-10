@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 6821f8b8dc76b2e45820dc8768d68c10
+timeCreated: 1469983427
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crystal_0
+    21300002: Crystal_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Crystal_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 252
+        height: 476
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.61058974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.000015, y: -241.64072}
+        - {x: 77.000015, y: -231.64072}
+        - {x: 78.000015, y: -226.64072}
+        - {x: 123.000015, y: -0.64071655}
+        - {x: 126.000015, y: 15.359283}
+        - {x: 126.000015, y: 53.359283}
+        - {x: 124.000015, y: 57.359283}
+        - {x: 51.000015, y: 143.35928}
+        - {x: 24.000015, y: 176.35928}
+        - {x: 13.000015, y: 185.35928}
+        - {x: -13.999985, y: 185.35928}
+        - {x: -21.999985, y: 176.35928}
+        - {x: -117.999985, y: 62.359283}
+        - {x: -121.999985, y: 59.359283}
+        - {x: -125.999985, y: 49.359283}
+        - {x: -125.999985, y: 30.359283}
+        - {x: -116.999985, y: -14.640717}
+        - {x: -102.999985, y: -92.64072}
+        - {x: -92.999985, y: -143.64072}
+        - {x: -86.999985, y: -174.64072}
+        - {x: -72.999985, y: -246.64072}
+        - {x: -64.999985, y: -261.64072}
+        - {x: -55.999985, y: -267.64072}
+        - {x: -28.999985, y: -281.64072}
+        - {x: -9.999985, y: -290.64072}
+        - {x: 11.000015, y: -290.64072}
+        - {x: 50.000015, y: -270.64072}
+        - {x: 62.000015, y: -262.64072}
+        - {x: 70.000015, y: -254.64072}
+    - name: Crystal_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 30
+        width: 228
+        height: 452
+      alignment: 9
+      pivot: {x: 0.47569662, y: 0.63485044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.54117, y: -145.9524}
+        - {x: 119.54117, y: 19.047607}
+        - {x: 119.54117, y: 36.047607}
+        - {x: 106.54117, y: 52.047607}
+        - {x: 20.541168, y: 153.0476}
+        - {x: 8.541168, y: 165.0476}
+        - {x: -2.4588318, y: 165.0476}
+        - {x: -11.458832, y: 155.0476}
+        - {x: -16.458832, y: 148.0476}
+        - {x: -99.45883, y: 49.047607}
+        - {x: -108.45883, y: 39.047607}
+        - {x: -108.45883, y: 15.047607}
+        - {x: -107.45883, y: 6.0476074}
+        - {x: -100.45883, y: -29.952393}
+        - {x: -91.45883, y: -70.95239}
+        - {x: -85.45883, y: -106.95239}
+        - {x: -72.45883, y: -166.9524}
+        - {x: -68.45883, y: -193.9524}
+        - {x: -60.45883, y: -234.9524}
+        - {x: -54.45883, y: -258.9524}
+        - {x: -50.45883, y: -263.9524}
+        - {x: -3.4588318, y: -286.9524}
+        - {x: 12.541168, y: -286.9524}
+        - {x: 32.54117, y: -276.9524}
+        - {x: 64.54117, y: -257.9524}
+        - {x: 66.54117, y: -250.9524}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

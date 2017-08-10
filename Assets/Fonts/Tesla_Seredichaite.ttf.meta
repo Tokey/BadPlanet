@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1a2472e93acb6f940b8e7fb3a961c4ba
+timeCreated: 1501221881
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: tesla-seredich
+  fontNames:
+  - tesla-seredich
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

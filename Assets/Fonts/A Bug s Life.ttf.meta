@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d3c38eaadd6275f40ade647659dffa8d
+timeCreated: 1501604961
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: a bug's life
+  fontNames:
+  - a bug's life
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
